@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BubbleBobble:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BubbleBobble_jar</output-path>
+    <root id="archive" name="BubbleBobble.jar">
+      <element id="module-output" name="BubbleBobble" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
